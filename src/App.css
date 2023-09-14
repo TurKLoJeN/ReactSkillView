@@ -1,0 +1,21 @@
+image is-4by3 img{
+  height: 150px;
+}
+image is-4by3{
+  padding-top: 150px;
+}
+.card .media:not(:last-child){
+  margin-bottom: 15px;
+}
+.footer {
+  background-color: #485fc7;
+  padding: 4rem 1.5rem 6rem;
+}
+
+body{
+  color:white;
+}
+
+strong{
+  color:white
+}
